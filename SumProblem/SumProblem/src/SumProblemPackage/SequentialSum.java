@@ -1,4 +1,4 @@
-package com.globalsoftwaresupport;
+package SumProblemPackage;
 
 public class SequentialSum {
     //Linear running time algoritm O(N)

@@ -1,4 +1,4 @@
-package com.globalsoftwaresupport;
+package SumProblemPackage;
 
 public class ParallelWorker extends Thread {
     private int [] nums;

@@ -1,4 +1,4 @@
-package com.globalsoftwaresupport;
+package SumProblemPackage;
 
 import java.util.Random;
 
