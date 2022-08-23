@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ParallelSum.iml" filepath="$PROJECT_DIR$/ParallelSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumProblem.iml" filepath="$PROJECT_DIR$/SumProblem.iml" />
     </modules>
   </component>
 </project>
